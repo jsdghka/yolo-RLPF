@@ -1,0 +1,9 @@
+
+train: C:\Users\Administrator\Desktop\YOLOv8-yan\dataset\train\images  # train images (relative to 'path') 128 images
+val: C:\Users\Administrator\Desktop\YOLOv8-yan\dataset\val\images  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 2  # number of classes
+names: ['With_Helmet', 'Without_Helmet']  # class names
+

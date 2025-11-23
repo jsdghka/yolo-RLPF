@@ -1,0 +1,12 @@
+train: D:\yolov8-gai\YOLOv8-yan\dataset\train # train images (relative to 'path') 128 images
+val: D:\yolov8-gai\YOLOv8-yan\dataset\val # val images (relative to 'path') 128 images
+#test: # test images (optional)
+
+# Classes
+names:
+  0: chaomeng
+  1: yibu
+  2: pikaqiu
+  3: miaowazhongzi
+  4: jienigui
+  5: penhuolong
